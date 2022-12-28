@@ -3,8 +3,7 @@ This was my final project for the intermediate Python programming class I took a
 
 The information in this project's README file is below:
 
-# README file for Alexia Ventura's ICS 33 Project Program, implementing both Option 1 (GUI)
-and Option 2 (smarter bots).
+# README file for Alexia Ventura's ICS 33 Project Program, implementing both Option 1 (GUI) and Option 2 (smarter bots).
 
 Version of Python used for this project: Python 3.8.2
 
